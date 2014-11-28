@@ -57,5 +57,13 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
+<student>
+        <firstname>Radosław</firstname>
+        <lastname>Borusiewicz</lastname>
+        <email>borusiewicz.radek@gmail.com</email>
+        <github>rbor</github>
+        <group>KrZZIs3011Io</group>
+    </student>
+
 
 </students>
